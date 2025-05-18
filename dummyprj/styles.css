@@ -187,6 +187,7 @@ img {
 /*=============== HOME ===============*/
 .home{
   position: relative;
+  min-height:100vh;
 }
 .home__container{
   padding-top: 8rem;
